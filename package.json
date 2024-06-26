@@ -56,7 +56,7 @@
     "node-gyp": "^9.3.1",
     "prop-types": "15.8.1",
     "react-query": "^3.39.2",
-    "yoastseo": "^1.91.2"
+    "yoastseo": "2.0.0-alpha.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.4.2",
